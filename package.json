@@ -1,5 +1,5 @@
 {
-  "name": "npm-synk",
+  "name": "npm-snyk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,8 @@
     "mocha": "^5.2.0",
     "mongoose": "^5.2.13",
     "nodemon": "^1.18.4"
+  },
+  "devDependencies": {
+    "snyk": "^1.94.0"
   }
 }
